@@ -2,6 +2,8 @@
 
 Implemented using the BLoC pattern, the state management system for Flutter recommended by Google
 
+![This is the spectrogram output](BLoC.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
