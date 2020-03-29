@@ -1,6 +1,6 @@
-# example
+# Flutter counter tutorial using BLoC pattern : 
 
-A new Flutter application.
+Implemented using the BLoC pattern, the state management system for Flutter recommended by Google
 
 ## Getting Started
 
